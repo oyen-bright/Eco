@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197694632424",
+    "project_id": "ecomoto-fb-dev",
+    "storage_bucket": "ecomoto-fb-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197694632424:android:8d75d132bc8dae2890745d",
+        "android_client_info": {
+          "package_name": "com.example.emr_005"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP9fi6ooceOc7WcxYyYP9Kb74D4zjkDXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

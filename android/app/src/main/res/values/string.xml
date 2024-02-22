@@ -1,0 +1,5 @@
+<resources>
+    <string name="smartcar_auth_scheme">sce3c0b6c4-79f5-4ed0-a595-81a527e06f79</string>
+    <string name="client_id">e3c0b6c4-79f5-4ed0-a595-81a527e06f79</string>
+    <string name="app_server">ecomoto.io</string>
+</resources>
